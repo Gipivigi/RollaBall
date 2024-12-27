@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Rollaball.sln"
+    "dotnet.defaultSolution": "RollaBall.sln"
 }
